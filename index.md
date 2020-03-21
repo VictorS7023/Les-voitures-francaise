@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ```
-
+<video src="video.mp4" width="320" height="200" controls preload></video>
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
